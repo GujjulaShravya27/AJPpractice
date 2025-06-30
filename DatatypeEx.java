@@ -1,5 +1,5 @@
 //program using primitive datatypes in java
-
+package Com.Shravya.lab1;
 public class DatatypeEx
 {
   public static void main(String args[])
