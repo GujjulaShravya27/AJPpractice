@@ -1,5 +1,5 @@
 package Com.Shravya.lab1;
-
+//here creating three subclasses as manali,mussoorie,gulmarg
  class Manali extends HillStations {
 
 	@Override
